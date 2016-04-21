@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $(".open-menu").click(function(){
-        $(".menu ul").slideToggle();
+        $(".bottom ul").slideToggle();
     });
 });
